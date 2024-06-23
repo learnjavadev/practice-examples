@@ -1,0 +1,32 @@
+Problem1:
+Finding the first occurrence in an Array
+Write a Java program that finds the first occurrence of a given integer in an array of integers.
+The program should return the index of the first occurrence or -1 if the integer is not found.
+
+Problem2:
+Create a simple console-based menu-driven program in Java that repeatedly presents the user with a menu until they choose to exit. 
+Use the break statement to exit the loop when the user selects the "exit" option.
+
+Problem3:
+Find the first occurrence of your name in an Array
+Declare a String[], store your name in it.
+Use for loop to iterate over this array and check first occurrence of your name in the array, use break statement to exit the loop when you find the match for your name and print index of your name in the array.
+
+
+Problem4:
+Skipping Specific Values in a Loop
+Write a Java program that prints all the numbers from 1 to 10, but skips printing the number 5.
+
+Problem5:
+Filtering Array Elements
+Write a Java program that iterates through an array of integers and prints only the even numbers, skipping the odd numbers.
+
+
+Problem6:
+Validating User Input
+Write a Java program that takes user input repeatedly and prints the input if it is a valid integer. 
+If the user inputs a non-integer value, skip the input and ask for a new one.
+
+Problem7:
+Processing a List of Strings
+Write a Java program that processes a list of strings and prints only those strings that have a length greater than 3, skipping the rest.
