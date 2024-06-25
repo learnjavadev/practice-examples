@@ -1,3 +1,7 @@
+//create a class of name StringDatatype
+//Assign value of two seperate string variables
+//Print this string variables in body of method
+
 
 public class StringDataTypeExample {
 public static void main(String[] args) {
