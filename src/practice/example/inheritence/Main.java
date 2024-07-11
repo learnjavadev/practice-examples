@@ -1,4 +1,4 @@
-package example.inheritance.practice;
+package practice.example.inheritence;
 
 public class Main {
 

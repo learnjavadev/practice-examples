@@ -1,3 +1,4 @@
+package practice.examples.non.primitive.datatype;
 
 public class ByteArrayExample {
 
@@ -11,11 +12,7 @@ public class ByteArrayExample {
 		for(int i = 0; i< intArray.length; i++) {
 			
 		System.out.println("array index=" +i+ ", value stored=" + intArray[i]);	
-			
-			
 		}
-		
-		
 	}
 
 }

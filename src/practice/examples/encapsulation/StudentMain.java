@@ -1,3 +1,4 @@
+package practice.examples.encapsulation;
 
 class Student {
 	private String name;

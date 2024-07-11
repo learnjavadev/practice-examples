@@ -1,4 +1,4 @@
-package example.inheritence.practice;
+package practice.example.inheritence;
 
 // super class or base class
 class Animal{

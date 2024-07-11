@@ -1,4 +1,4 @@
-package example.inheritence.practice;
+package practice.example.inheritence;
 
 class Vehicle{
 	

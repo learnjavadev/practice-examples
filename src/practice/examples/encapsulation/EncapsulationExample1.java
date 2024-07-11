@@ -1,3 +1,5 @@
+package practice.examples.encapsulation;
+
 public class EncapsulationExample1 {
 
 	public static void main(String[] args) {

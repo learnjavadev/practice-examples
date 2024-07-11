@@ -1,4 +1,4 @@
-package src.practice.examples.basic.syntax;
+package practice.examples.basic.syntax;
 
 public class HelloWorld {
 

@@ -1,3 +1,4 @@
+package practice.examples.non.primitive.datatype;
 
 public class IntArrayExample {
 	public static void main(String[] args) {

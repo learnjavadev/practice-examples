@@ -1,4 +1,4 @@
-package example.inheritence.method.overriding.practice;
+package practice.example.inheritence.method.overriding;
 
 class Animal{
 	public void makeSound() {

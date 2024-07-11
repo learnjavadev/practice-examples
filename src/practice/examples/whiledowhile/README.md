@@ -1,1 +1,0 @@
-Please submit the solutions in this package for the problems mentioned in file resource/6_WhileDoWhilePractice.txt
