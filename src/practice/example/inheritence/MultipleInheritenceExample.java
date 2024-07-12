@@ -14,9 +14,11 @@ class Mother{
 	}
 }
 
-class child extends Father{
-	
-}
+// not supported
+
+//class child extends Father, Mother{
+//	
+//}
 
 
 public class MultipleInheritenceExample {
