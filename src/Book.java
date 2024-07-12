@@ -7,6 +7,7 @@ public class Book {
 	int yearOfPublish;
 	String publisher;
 	String author;
+	String language;
 	
 	// what are the behaviors
 	// 1. publishBook()
