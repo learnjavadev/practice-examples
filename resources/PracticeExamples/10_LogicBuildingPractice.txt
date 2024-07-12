@@ -1,0 +1,252 @@
+Problem:1
+Sum of Digits
+Description:
+Write a Java program that takes a number as input and calculates the sum of its digits.
+
+Problem:2
+Factorial
+Description:
+Write a Java program that takes a number as input and calculates its factorial.
+
+Problem:3
+Largest of Three Numbers
+Description:
+Write a Java program that takes three numbers as input and prints the largest of the three numbers.
+
+Problem:4
+Reverse a String
+Description:
+Write a Java program that takes a string as input and prints the reversed string.
+
+Problem:5
+String Anagrams
+Description:
+Write a Java program that takes two strings and checks if they are anagrams.
+example : silent & listen
+
+Problem:6
+Multiplication Table
+Description:
+Write a Java program that takes a number as input and prints its multiplication table up to 10.
+
+Problem:7
+Count Vowels
+Description:
+Write a Java program that takes a string as input and counts the number of vowels (a, e, i, o, u) in the string.
+
+Problem:8
+Simple Interest
+Description:
+Write a Java program that calculates the simple interest. Take principal, rate of interest, and time as input from the user.
+
+Problem:9
+Check Leap Year
+Description:
+Write a Java program that takes a year as input and checks if it is a leap year.
+
+Problem:10
+Sum of Array Elements
+Description:
+Write a Java program that takes an array of integers as input and calculates the sum of all its elements.
+
+Problem:11
+Count Words
+Description:
+Write a Java program that takes a string as input and counts the number of words in the string.
+
+Problem:12
+Temperature Conversion
+Description:
+Write a Java program that converts a temperature from Fahrenheit to Celsius. Take the temperature in Fahrenheit as input from the user.
+
+Problem:13
+Calculate Power
+Description:
+Write a Java program that calculates the power of a number. Take the base and exponent as input from the user.
+
+Problem:14
+Swap Two Numbers
+Description:
+Write a Java program that takes two numbers as input and swaps their values without using a third variable.
+
+Problem:15
+Find Minimum and Maximum in an Array
+Description:
+Write a Java program that takes an array of integers as input and finds the minimum and maximum values in the array.
+
+Problem:16
+Sum of Even Numbers
+Description:
+Write a Java program that takes an array of integers as input and calculates the sum of all even numbers in the array.
+
+Problem:17
+Check for Prime Number
+Description:
+Write a Java program that takes a number as input and checks if it is a prime number.
+
+Problem:18
+Convert Decimal to Binary
+Description:
+Write a Java program that takes a decimal number as input and converts it to binary.
+
+Problem:19
+Find the Largest Element in an Array
+Description:
+Write a Java program that takes an array of integers as input and finds the largest element in the array.
+
+Problem:20
+Count Occurrences of a Character
+Description:
+Write a Java program that takes a string and a character as input and counts the number of times the character appears in the string.
+
+Problem:21
+Calculate Average of Array Elements
+Description:
+Write a Java program that takes an array of integers as input and calculates the average of all its elements.
+
+Problem:22
+Check if Array is Sorted
+Description:
+Write a Java program that takes an array of integers as input and checks if the array is sorted in ascending order.
+
+Problem:22
+Merge Two Arrays
+Description:
+Write a Java program that takes two arrays of integers as input and merges them into a single array.
+
+Problem:23
+Reverse an Array
+Description:
+Write a Java program that takes an array of integers as input and reverses the array.
+
+Problem:23
+Find GCD of Two Numbers
+Description:
+Write a Java program that takes two numbers as input and finds their Greatest Common Divisor (GCD).
+
+Problem:24
+Calculate Compound Interest
+Description:
+Write a Java program that calculates the compound interest. Take principal, rate of interest, and time (number of times interest applied per time period) as input from the user.
+
+Problem:25
+Check Armstrong Number
+Description:
+Write a Java program that takes a number as input and checks if it is an Armstrong number (a number that is equal to the sum of its own digits each raised to the power of the number of digits).
+
+Problem:26
+Find Second Largest Element in an Array
+Description:
+Write a Java program that takes an array of integers as input and finds the second largest element in the array.
+
+Problem:27
+Check Palindrome Number
+Description:
+Write a Java program that takes a number as input and checks if it is a palindrome number (a number that reads the same backward as forward).
+
+Problem:28
+Calculate the Sum of the First N Natural Numbers
+Description:
+Write a Java program that takes a number 
+𝑁
+N as input and calculates the sum of the first 
+𝑁
+N natural numbers.
+
+Problem:29
+Find the Length of a String
+Description:
+Write a Java program that takes a string as input and prints the length of the string.
+
+Problem:30
+Count Digits in a Number
+Description:
+Write a Java program that takes a number as input and counts the number of digits in the number.
+
+Problem:31
+Calculate the Product of Digits in a Number
+Description:
+Write a Java program that takes a number as input and calculates the product of its digits.
+
+Problem:32
+Find the Smallest Element in an Array
+Description:
+Write a Java program that takes an array of integers as input and finds the smallest element in the array.
+
+Problem:33
+Convert Binary to Decimal
+Description:
+Write a Java program that takes a binary number as input and converts it to decimal.
+
+Problem:34
+Calculate the Area of a Circle
+Description:
+Write a Java program that takes the radius of a circle as input and calculates the area of the circle.
+
+Problem:34
+Check for Perfect Number
+Description:
+Write a Java program that takes a number as input and checks if it is a perfect number (a positive integer that is equal to the sum of its proper divisors, excluding itself).
+
+Problem:35
+Check if Two Strings are Equal without using == operator
+Description:
+Write a Java program that takes two strings as input and checks if they are equal.
+
+Problem:36
+Problem:1
+Print a Right-Angled Triangle Pattern
+Description:
+Write a Java program that takes a number 
+𝑁
+N as input and prints a right-angled triangle pattern of 
+𝑁
+N rows using asterisks.
+
+Problem:37
+Calculate Perimeter of a Rectangle
+Description:
+Write a Java program that takes the length and width of a rectangle as input and calculates the perimeter of the rectangle.
+
+Problem:38
+Check if a Character is a Vowel or Consonant
+Description:
+Write a Java program that takes a character as input and checks if it is a vowel or consonant.
+
+Problem:39
+Calculate the Sum of Odd Numbers
+Description:
+Write a Java program that takes an array of integers as input and calculates the sum of all odd numbers in the array.
+
+Problem:40
+Convert String to Uppercase
+Description:
+Write a Java program that takes a string as input and converts it to uppercase.
+
+Problem:42
+Find the Second Smallest Element in an Array
+Description:
+Write a Java program that takes an array of integers as input and finds the second smallest element in the array.
+
+Problem:43
+Print a Square Pattern
+Description:
+Write a Java program that takes a number 
+𝑁
+N as input and prints a square pattern of 
+𝑁
+×
+𝑁
+N×N using asterisks.
+
+Problem:44
+Find a alphabetical position number of a character in a give string
+Example: character to find = 'a'
+Output: position=1
+
+Problem:45
+Find the total occurrences of a give character in a given string.
+Example: 
+Give String = "anna" 
+Char = 'n'
+Output: Occurrence of n in anna = 2
