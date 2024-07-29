@@ -6,8 +6,6 @@ public class FactorialNumber {
 		
 		int number = 5;
 		long factorial = 1;
-		// adding new comment
-		String name = "abc";
 		
 		for(int i =1;i<=number;i++) {
 			
