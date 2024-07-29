@@ -7,6 +7,8 @@ abstract class Animal{
 	}
 	
 	protected abstract void eat();
+	
+	
 }
 
 class Dog extends Animal{
